@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#Updating Dotcom_latest_product_prices
+#Single iteration og pivoting for a standard Linear Program
 import sys
 from threading import Thread
 import os
