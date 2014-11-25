@@ -1,11 +1,10 @@
 #!/usr/bin/env python
-#Single iteration og pivoting for a standard Linear Program
+#complete pivoting for a standard Linear Program(given initial dictionary is feasible)
 import sys
 from threading import Thread
 import os
 import math
 import csv
-import numpy
 from time import gmtime, strftime
 
 def read_values():
